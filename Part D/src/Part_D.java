@@ -5,7 +5,7 @@ public class Part_D {
 		System.out.println("Hi, my name is Raymond");
 		System.out.println("My favourite colour is blue");
 		System.out.println("My favourite mode of transportation is space ship");
-		
+		System.out.println("The best day of the week is yesterday");
 	}
 
 }
